@@ -20,9 +20,9 @@ An Android application that has been designed for the users to easily manage and
 
 ## <ins>Modules</ins>
 ### - Authentication
-  <p> User can either sign-in or create an account in the application.
+  <p> User can either sign-in or create an account in the application. </p>
 ### - Create
-  <p> Create an event along with the details consisting of the event location pinned on map.
+  <p> Create an event along with the details consisting of the event location pinned on map. </p>
 
 ## <ins>Tools</ins>
 
