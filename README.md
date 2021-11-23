@@ -19,7 +19,10 @@ An Android application that has been designed for the users to easily manage and
 4. Customizable user profile. 
 
 ## <ins>Modules</ins>
-
+- Authentication
+  <p> User can either sign-in or create an account in the application.
+- Create
+  <p> Create an event along with the details consisting of the event location pinned on map.
 
 ## <ins>Tools</ins>
 
