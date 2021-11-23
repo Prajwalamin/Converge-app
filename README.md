@@ -19,7 +19,7 @@ An Android application that has been designed for the users to easily manage and
 4. Customizable user profile. 
 
 
-#<ins>Tools</ins>
+<ins>Tools</ins>
 
 1. Oauth2 for Google sign in.
 2. Google maps api for implementation of google maps.
