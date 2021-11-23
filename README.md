@@ -12,14 +12,16 @@ Event Management System
 
 An Android application that has been designed for the users to easily manage and track the events through their smartphones. Users can also chat with other users of the attending event and can explore several other events that are being hosted using the app.
 
-<ins>Features</ins>
+## <ins>Features</ins>
 1. Easier to track all the events hosted by an user.
 2. Participants can communicate among others who are in the same event.
 3. Geographical representation of event locations.
 4. Customizable user profile. 
 
+## <ins>Modules</ins>
 
-<ins>Tools</ins>
+
+## <ins>Tools</ins>
 
 1. Oauth2 for Google sign in.
 2. Google maps api for implementation of google maps.
