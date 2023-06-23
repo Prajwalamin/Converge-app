@@ -1,7 +1,9 @@
-# Converge
-
+Converge
+========
 Event Management System
 <!-- [Final year project] -->
+
+An event management system that enables the users to track and manage the events with ease on their smartphones, also allowing them to communicate with other participants of the same event.
 
 ![login](./screenshots/login.png)
 ![search](./screenshots/search.png)
